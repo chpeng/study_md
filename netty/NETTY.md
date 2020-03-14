@@ -24,7 +24,7 @@ netty 是异步的基于事件驱动 Nio 框架
 
 ### Selector、channel、Buffer的关系
 
-![image-20200312185014835](E:\develop\study_md\NETTY.assets\image-20200312185014835.png)
+![image-20200312185014835](../NETTY.assets/image-20200312185014835.png)
 
 * 一个channel对应一个Buffer
 * 对个Channel可以都注册在一个selector上
