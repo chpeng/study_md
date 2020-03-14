@@ -1,14 +1,14 @@
-![image-20200310012224707](E:\develop\study_md\SpringCloud.assets\image-20200310012224707.png)
+![image-20200310012224707](SpringCloud.assets\image-20200310012224707.png)
 
-![image-20200310012250091](E:\develop\study_md\SpringCloud.assets\image-20200310012250091.png)
+![image-20200310012250091](SpringCloud.assets\image-20200310012250091.png)
 
-![image-20200310123450621](E:\develop\study_md\SpringCloud.assets\image-20200310123450621.png)
+![image-20200310123450621](SpringCloud.assets\image-20200310123450621.png)
 
-![image-20200311022642417](E:\develop\study_md\SpringCloud.assets\image-20200311022642417.png)
+![image-20200311022642417](SpringCloud.assets\image-20200311022642417.png)
 
-![image-20200311183540719](E:\develop\study_md\SpringCloud.assets\image-20200311183540719.png)
+![image-20200311183540719](SpringCloud.assets\image-20200311183540719.png)
 
-![image-20200311183556330](E:\develop\study_md\SpringCloud.assets\image-20200311183556330.png)
+![image-20200311183556330](SpringCloud.assets\image-20200311183556330.png)
 
 # Eurake
 
@@ -31,17 +31,17 @@
 
 # ZUUL网关
 
-![image-20200311184441556](E:\develop\study_md\SpringCloud.assets\image-20200311184441556.png)
+![image-20200311184441556](SpringCloud.assets\image-20200311184441556.png)
 
-![image-20200311184836038](E:\develop\study_md\SpringCloud.assets\image-20200311184836038.png)
+![image-20200311184836038](SpringCloud.assets\image-20200311184836038.png)
 
-![image-20200311184814509](E:\develop\study_md\SpringCloud.assets\image-20200311184814509.png)
+![image-20200311184814509](SpringCloud.assets\image-20200311184814509.png)
 
 
 
- ![image-20200312124458811](E:\develop\study_md\SpringCloud.assets\image-20200312124458811.png)
+ ![image-20200312124458811](SpringCloud.assets\image-20200312124458811.png)
 
-![image-20200312124527205](E:\develop\study_md\SpringCloud.assets\image-20200312124527205.png)
+![image-20200312124527205](SpringCloud.assets\image-20200312124527205.png)
 
-![image-20200312130219716](E:\develop\study_md\SpringCloud.assets\image-20200312130219716.png)
+![image-20200312130219716](SpringCloud.assets\image-20200312130219716.png)
 

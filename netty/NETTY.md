@@ -47,9 +47,10 @@ private int capacity; //容量初始化后，不可变的
 
 常用方法：
 
-![image-20200313131339994](E:\develop\study_md\NETTY.assets\image-20200313131339994.png)
+![image-20200313131339994](../NETTY.assets/image-20200313131339994.png)
 
-![image-20200313131441422](E:\develop\study_md\NETTY.assets\image-20200313131441422.png)
+
+![image-20200313131441422](../NETTY.assets/image-20200313131441422.png)
 
 ``` java
   public static void main(String[] args) {

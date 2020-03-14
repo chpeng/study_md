@@ -29,7 +29,7 @@
 * .myi结尾 存储索引数据
 * .myd结尾 存储数据
 * 索引类型使用B+树，叶子结点存储的是，数据的指针（MYD文件的位置指针），所以在查找的时候，会先查找MYI->MYD
-* ![image-20200307213222711](E:\develop\study_md\img\image-20200307213222711.png)
+* ![image-20200307213222711](img\image-20200307213222711.png)
 
 # Innodb
 
@@ -46,9 +46,9 @@
 
 # Mysql主从（binlog -> relay binlog）
 
-![image-20200308225752632](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200308225752632.png)
+![image-20200308225752632](Mysql.assets/image-20200308225752632.png)
 
 * binlog 只会存储 数据的增删改
 * `show relaylog events;`  (Io Thread / Sql Thread )
 
-![image-20200308231118024](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200308231118024.png)
+![image-20200308231118024](Mysql.assets/image-20200308231118024.png)
