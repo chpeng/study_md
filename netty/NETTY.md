@@ -47,11 +47,6 @@ private int capacity; //容量初始化后，不可变的
 
 常用方法：
 
-![image-20200313131339994](../NETTY.assets/image-20200313131339994.png)
-
-
-![image-20200313131441422](../NETTY.assets/image-20200313131441422.png)
-
 ``` java
   public static void main(String[] args) {
         IntBuffer intBuffer = IntBuffer.allocate(10);
@@ -101,3 +96,15 @@ map.put(5, (byte) 'P');
 map.put(28, (byte) 'C');
 map.put(26, (byte) 'D');
 ```
+
+
+
+## 零拷贝
+
+![image-20200315145807309](NETTY.assets/image-20200315145807309.png)
+
+## 主从reactor
+
+![image-20200315172557405](NETTY.assets/image-20200315172557405.png)
+
+![image-20200315172726311](NETTY.assets/image-20200315172726311.png)
